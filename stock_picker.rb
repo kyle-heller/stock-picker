@@ -21,4 +21,5 @@ max_value = ref_array[day].last[1]
 
 puts "[#{min_index},#{max_index}] # for a profit of \
 $#{max_value} - $#{min_value} == $#{max_value - min_value}"
+
 end
